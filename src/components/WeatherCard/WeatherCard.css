@@ -1,0 +1,35 @@
+.what {
+    border: black 2px solid;
+    margin: 5% auto;
+    width: 60%;
+    height: 300px;
+    border-radius: 2%;
+    box-sizing: border-box;
+    box-shadow: 20px 20px 50px 10px blue inset ;
+}
+
+.currentTemp    {
+    margin: 50px 0 50px 0;
+}
+
+.spantag {
+    margin: 100px;
+}
+
+.changingUnit {
+    margin-top: 50px;
+}
+
+button {
+    margin: 0 10px 0 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.addToCities {
+    width: 50%;
+    height: 50px;
+    box-shadow: 20px 20px 50px 10px blue inset ;
+    color: white;
+    font-size: large;
+}
